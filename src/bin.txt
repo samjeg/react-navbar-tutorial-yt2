@@ -1,0 +1,3 @@
+<i className={this.state.clicked ? 'fas fa-times' : 'fas fa-bars'}></i>
+
+<ul className={this.state.clicked ? 'nav-menu .active' : 'nav-menu'}>
